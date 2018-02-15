@@ -1,0 +1,4 @@
+# set these to your values 
+export MAILGUN_API_KEY=key-YOURKEYGOESHERE
+export MAILGUN_API_URL=https://api.mailgun.net/v3/mg.contestcq.com/messages
+export MAILGUN_API_SENDER=spot@contestcq.com
