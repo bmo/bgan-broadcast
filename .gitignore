@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# don't send credentials
+set-mailgun-env.sample
